@@ -15,10 +15,7 @@
     "typeRoots": ["./node_modules/@types"],
     "baseUrl": ".",
     "paths": {
-      "@domain/*": ["src/domain/*"],
-      "@application/*": ["src/application/*"],
-      "@shared/*": ["src/shared/*"],
-      "@presentation/*": ["src/presentation/*"]
+      "@/*": ["src/*"]
     }
   },
   "include": ["src/**/*"],
