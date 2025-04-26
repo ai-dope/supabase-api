@@ -1,4 +1,4 @@
-# Supabase Backend API
+# Supabase API
 
 A RESTful API built with Express.js that provides a simplified interface for interacting with Supabase databases. This API abstracts away the complexity of direct Supabase client usage and provides a consistent interface for common database operations.
 
