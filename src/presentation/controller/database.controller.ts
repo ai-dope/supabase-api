@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { DatabaseRepository } from '../../infrastructure/repository/database.repository';
-import { ApiResponse } from '../../types/apiResponse';
+import { ApiResponse } from '../../domain/type/apiResponse';
 
 export class DatabaseController {
     private repositories: Map<string, DatabaseRepository<any>> = new Map();

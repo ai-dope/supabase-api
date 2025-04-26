@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { DatabaseController } from '../database.controller';
-import { DatabaseRepository } from '../../../infrastructure/repositories/database.repository';
+import { DatabaseRepository } from '../../../infrastructure/repository/database.repository';
 
 jest.mock('../../../infrastructure/repositories/database.repository');
 

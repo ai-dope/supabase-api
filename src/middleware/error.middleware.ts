@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from 'express';
-import { ApiResponse } from '../types/apiResponse';
+import { ApiResponse } from '../domain/type/apiResponse';
 
 export const errorHandler = (
   err: Error,
