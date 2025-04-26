@@ -1,5 +1,5 @@
 {
-  "name": "supabase-backend",
+  "name": "supabase-api",
   "version": "1.0.0",
   "description": "Supabase backend implementation",
   "main": "dist/index.js",

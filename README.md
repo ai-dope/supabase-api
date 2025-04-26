@@ -23,7 +23,7 @@ A RESTful API built with Express.js that provides a simplified interface for int
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd supabase-backend
+cd supabase-api
 ```
 
 2. Install dependencies:
